@@ -1,10 +1,11 @@
 List of working commands:
-[Anything in here is what you put without the "[]"]
+What "[]" means: You put what it says in them. For example [amount] -> $purge 4
 
 $commands
 $purge [amount]
 $avatar
 $voice (Currently does nothing but joins voice)
+f (Sends F emoji to pay respects)
 
 
 Plus a few secret commands....if you can find them :3
